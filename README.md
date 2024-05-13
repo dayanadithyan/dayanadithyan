@@ -1,5 +1,7 @@
 ### Hi, I'm Dayan.
 
+---
+
 👨🏾‍🎓 **Education:** I'm passionate about symbols, whether they're words or numbers. My journey in language research is fueled by this curiosity about how language shapes human experience. I hold a Bachelor’s degree in Liberal Arts & Sciences from Quest University (British Columbia, 2020), with a focus on mathematics and critical theory.
 
 👨🏽‍💼 **Professional:** Currently, I serve as a Senior Researcher in NLP R&D and TMT policy. Previously, I spent two years consulting at McKinsey, with a focus on the APAC region. I'm drawn to interesting problems, and data science provides a creative outlet where I can express myself through both mathematics and letters. Looking ahead, I aim to dedicate my '80,000 hours' to leveraging intelligent systems to create positive social impact, especially for the most vulnerable.
@@ -19,3 +21,5 @@
 
 <br />
 <br />
+
+---
