@@ -6,4 +6,6 @@ I earned a Bachelor’s degree in Liberal Arts & Sciences from Quest University 
 
 Currently, I serve as a Senior Researcher in NLP R&D,(and implementation,) and TMT policy. Before that, I consulted at McKinsey for 2 years. Both focused on the APAC.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayanadithyan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayanadithyan&show_icons=true&theme=transparent)
