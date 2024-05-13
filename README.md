@@ -9,4 +9,4 @@ Currently, I serve as a Senior Researcher in NLP R&D,(and implementation,) and T
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayanadithyan&size_weight=0.5&count_weight=0.5)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqyanadithyan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayanadithyan&layout=compact)
