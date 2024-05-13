@@ -1,8 +1,8 @@
-### Hi. I'm Dayan. 
+### Hi, I'm Dayan.
 
-👨🏾‍🎓: I like symbols, both words and numbers. My research in language is driven by this curiosity in how language shapes human experience. I earned a Bachelor’s degree in Liberal Arts & Sciences from Quest University (British Columbia), with a focus on mathematics and critical theory.Currently, 
+👨🏾‍🎓 **Education:** I'm passionate about symbols, whether they're words or numbers. My journey in language research is fueled by this curiosity about how language shapes human experience. I hold a Bachelor’s degree in Liberal Arts & Sciences from Quest University (British Columbia), with a focus on mathematics and critical theory.
 
-👨🏽‍💼: I serve as a Senior Researcher in NLP R&D,(and implementation,) and TMT policy. Before that, I consulted at McKinsey for 2 years. Both focused on the APAC. I enjoy interesting problems, and data science gave me a way to express myself both in math and letterds in a creative outlet. Moving forward, I hope to dedicate what is left of my '80,000 hours' to using these intelligent systems to create the net-social impact for the most vulnerable. 
+👨🏽‍💼 **Experience:** Currently, I serve as a Senior Researcher in NLP R&D and TMT policy. Previously, I spent two years consulting at McKinsey, with a focus on the APAC region. I'm drawn to interesting problems, and data science provides a creative outlet where I can express myself through both mathematics and letters. Looking ahead, I aim to dedicate my '80,000 hours' to leveraging intelligent systems to create positive social impact, especially for the most vulnerable.
 
 ---
 
@@ -17,19 +17,5 @@
 <img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Neo4j" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
 
-
-
-
 <br />
-
-### 📊 Stats
-
-![Dayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayanadithyan&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-<!--
-<details>
-
-
+<br />
