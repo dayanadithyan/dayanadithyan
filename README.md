@@ -1,5 +1,5 @@
-Interdisciplinary researcher based in Sri Lanka. Background in math + philosophy. Focus on distributional semantics in the new age.
 ---
+Interdisciplinary researcher based in Sri Lanka. Background in math + philosophy. Focus on distributional semantics in the new age.
 
 ### 🧰 Languages and Tools
 
