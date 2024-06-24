@@ -23,11 +23,12 @@
 ## Currently Learning
 - Data engineering
 - Advanced graph algorithms
-- Advanced reinforcement Learning
+- Advanced reinforcement learning
   
 ## Research Interests
 - Semantic networks
 - Knowledge representation
+- Ethical AI and regulation
 
 ## Present work
 
