@@ -1,6 +1,6 @@
 ## Core research
-- Natural Language Processing
-- Graph Theory
+- Natural Language Processing/Understanding
+- Graph theory
 - Distributional semantics
 
 ## Programming Languages
@@ -20,11 +20,14 @@
 ![Cypher](https://img.shields.io/badge/-Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 ## Currently Learning
-- Advanced Graph Algorithms
-- Advanced Reinforcement Learning
-- Quantum Computing basics
+- Advanced graph algorithms
+- Advanced reinforcement Learning
+- Quantum computing (basics)
   
 ## Research Interests
-- Semantic Networks
-- Knowledge Representation
-- Cognitive Computing
+- Semantic networks
+- Knowledge representation
+
+## Present work
+
+- NLP for social good use-cases, focused on using NLP to analyze political media and new society.
