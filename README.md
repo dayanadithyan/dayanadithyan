@@ -14,15 +14,16 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![OWL](https://img.shields.io/badge/-OWL-5C4EE5?style=flat-square)
 ![RDF](https://img.shields.io/badge/-RDF-0C479C?style=flat-square)
+![MLFlow](https://img.shields.io/badge/-MLFlow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ## Query Languages
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Cypher](https://img.shields.io/badge/-Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 ## Currently Learning
+- Data engineering
 - Advanced graph algorithms
 - Advanced reinforcement Learning
-- Quantum computing (basics)
   
 ## Research Interests
 - Semantic networks
