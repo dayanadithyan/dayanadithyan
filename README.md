@@ -24,6 +24,7 @@
 - Data engineering
 - Advanced graph algorithms
 - Advanced reinforcement learning
+- Algorithms for Big Data
   
 ## Research Interests
 - Semantic networks
