@@ -1,16 +1,12 @@
 ## Core research
-- Natural Language Processing/Understanding
-- Graph theory
-- Distributional semantics
-
-## Research Interests
-- Semantic networks
-- Knowledge representation
-- Ethical AI and regulation
+- Theory of text
+- Graph theoretic algorithms
+- Semantics
+- Knowledge graphs
 
 ## Present work
 
-- NLP for social good use-cases, focused on using NLP to analyze political media and new society.
+- Data science for social good.
 
 ## Past work
 
